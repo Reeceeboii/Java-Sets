@@ -31,8 +31,7 @@ The repo contains a pre-compiled .class file, and to execute this, just open a s
 Then type `java Sets` and hit enter to run.
 
 ## Sample output ##
-`
-C:\Users\Reece\Documents\JavaSets>java Sets
+`C:\Users\Reece\Documents\JavaSets>java Sets
 Set 1: [18, 22, 11, 44]
 
 Cardinality (|1|) = 4
@@ -86,5 +85,4 @@ Powerset of set 2: Powerset will contain 16 elements.
 {24 25}
 {32 24 25}
 {18 24 25}
-{32 18 24 25}
-`
+{32 18 24 25}`
