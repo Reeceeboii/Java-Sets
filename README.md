@@ -31,23 +31,19 @@ The repo contains a pre-compiled .class file, and to execute this, just open a s
 Then type `java Sets` and hit enter to run.
 
 ## Sample output ##
+
 `C:\Users\Reece\Documents\JavaSets>java Sets
 Set 1: [18, 22, 11, 44]
-
 Cardinality (|1|) = 4
 
 Set 2: [32, 18, 24, 25]
-
 Cardinality (|2|) = 4
 
 Set 1 union set 2: [11, 18, 22, 24, 25, 32, 44]
 
-
 Set 1 intersect set 2: [18]
 
-
 Set 1 difference set 2: [11, 22, 44]
-
 
 Powerset of set 1: Powerset will contain 16 elements.
 
