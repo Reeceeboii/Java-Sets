@@ -32,6 +32,7 @@ Then type `java Sets` and hit enter to run.
 
 ## Sample output ##
 `C:\Users\Reece\Documents\JavaSets>java Sets`
+
 `Set 1: [18, 22, 11, 44]`
 `Cardinality (|1|) = 4`
 
