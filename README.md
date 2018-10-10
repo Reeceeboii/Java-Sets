@@ -26,3 +26,6 @@ The main underlying concept that makes this easy to understand is that the cardi
 * 101 = {a, c}
 * 110 = {a, b}
 * 111 = {a, b, c}
+
+The repo contains a pre-compiled .class file, and to execute this, just open a shell or CMD window in the file's directory, or `cd` to the directory containing this file. 
+Then type `java Sets` and hit enter to run.
