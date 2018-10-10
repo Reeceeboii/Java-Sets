@@ -30,7 +30,9 @@ The main underlying concept that makes this easy to understand is that the cardi
 The repo contains a pre-compiled .class file, and to execute this, just open a shell or CMD window in the file's directory, or `cd` to the directory containing this file. 
 Then type `java Sets` and hit enter to run.
 
-## Sample output ## 
+## Sample output ##
+`
+C:\Users\Reece\Documents\JavaSets>java Sets
 Set 1: [18, 22, 11, 44]
 
 Cardinality (|1|) = 4
@@ -85,3 +87,4 @@ Powerset of set 2: Powerset will contain 16 elements.
 {32 24 25}
 {18 24 25}
 {32 18 24 25}
+`
