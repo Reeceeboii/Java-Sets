@@ -81,15 +81,8 @@ class SetClass{
 
     /*
      *** HOW TO PROGRAMMATICALLY GET A POWERSET OF A SET ***
-     * 1. Work out the cardinality of the powerset by calculating 2 to the power n (see above)
-     * 2. Convert the set from a HashSet object to an array
-     * 3. Create a for loop to iterate from 0 to whatever value step 1 yielded
-     *    5. Nest another for loop doing the same thing
-     *    6. If the bitwise AND of counter and the logical shift of j is more than 0
-     *       then print the array's index [j].
-     *
-     * A better explanation of this can be found in the readme file.
-
+     * An explanation of this algorithm can be found in the readme
+       file in the github repo.
      */
 
 
