@@ -31,3 +31,5 @@ The repo contains a pre-compiled .class file, and to execute this, just open a s
 Then type `java Sets` and hit enter to run.
 
 ## Sample output ##
+![alt text](https://raw.githubusercontent.com/Reeceeboii/Java-Sets/master/img/output.PNG)
+
