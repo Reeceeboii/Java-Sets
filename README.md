@@ -3,12 +3,12 @@ Implementation of sets and some basic set operations in Java
 
 **This Java code has the following functionality:**
 
-    * Creation of sets
-    * Cardinality of sets
-    * Union of sets
-    * Intersect of sets
-    * Difference of sets
-    * Powersets of sets
+* Creation of sets
+* Cardinality of sets
+* Union of sets
+* Intersect of sets
+* Difference of sets
+* Powersets of sets
 
 
 
